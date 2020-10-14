@@ -14,4 +14,5 @@
  [EDA report](https://github.com/londonjevans/Capstone-Two/blob/master/Capstone%20Two%20EDA.ipynb)
  After creating many numeric features and converting them to binary, my primary concern when performing EDA was colinearity: 
 ![alt text](https://github.com/londonjevans/Capstone-Two/blob/master/Screenshot%202020-10-14%20at%2014.23.29.png)
-
+My absolute favourite trading indicator is the Volume Point Of Control (VPOC):
+![alt text](https://github.com/londonjevans/Capstone-Two/blob/master/VPOC%20image.png)
