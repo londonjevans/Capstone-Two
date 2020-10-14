@@ -23,3 +23,5 @@ My absolute favourite trading indicator is the Volume Point Of Control (VPOC):
   ![alt text](https://github.com/londonjevans/Capstone-Two/blob/master/Screenshot%202020-10-14%20at%2015.01.11.png)
 # 6. Further work
   I have much more work to do in terms of adding and refining features, hyperparameter tuning and model tweaking, but the early results are very encouraging.
+# Thanks
+  A huge thank you to my exceptional Springboard mentor Dhiraj Khanna, who's phenomenal advice helped me in many different ways.
