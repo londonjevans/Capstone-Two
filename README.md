@@ -5,7 +5,7 @@
 # 1. The Problem:
   Traders in financial markets typically use charts and 'technical indicators' to indentify entry and exit points. These 'technical indicators' are generally derivatives of price and/or volume, and after having used them for many years I have come to believe that most work only some of the time, some are horrible and some are very useful. Here I will explore using machine learning to test whether there is any predictive power to a confluence of these indicators, and I will also empirically test the usefulness of the indicators that I believe to be reliable, to see if I am indeed correct.
 # 2. The Data:
-Data acquisition and wrangling report
+Data acquisition and wrangling report https://github.com/londonjevans/Capstone-Two/blob/master/Capstone%20Two%20Data%20acquisition%20and%20wrangling.ipynb
 
   I have been collecting intraday trading data for Bitcoin vs USD from Tiingo with a frequency of 1 minute for about 6 weeks, and as of the 14th of October 2020 that amounted to about 95,000 rows of data.
 # 3. The Question of Interest:
