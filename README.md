@@ -21,3 +21,5 @@ My absolute favourite trading indicator is the Volume Point Of Control (VPOC):
   For the modeling piece I chose to analyse two different types of feature set; all binary and all numeric, and worked with many different regression models including the usual scikit-learn models of Linear Regression, Lasso, Elastic Net, Decision Tree Regressor, K Neighbours Regressor and Gradient Boosting Regressor.  I also worked with XG Boost, Light GBM and Keras neural nets.
   I found the best results from neural nets, with early RMSE loss as follows;
   ![alt text](https://github.com/londonjevans/Capstone-Two/blob/master/Screenshot%202020-10-14%20at%2015.01.11.png)
+# 6. Further work
+  I have much more work to do in terms of adding and refining features, hyperparameter tuning and model tweaking, but the early results are very encouraging.
