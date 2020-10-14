@@ -13,5 +13,5 @@
 # 4. EDA:
  [EDA report](https://github.com/londonjevans/Capstone-Two/blob/master/Capstone%20Two%20EDA.ipynb)
  Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/londonjevans/Capstone-Two/blob/master/Screenshot%202020-10-14%20at%2014.23.29.png)
 
