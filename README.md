@@ -12,6 +12,6 @@
   I have calculated a reward metric which is a figure that risk-adjusts the overall profit on a trade, by dividing the profit by the maximum drawdown during the holding period. I have initially made the trade holding period 5 minutes, but will eventually explore many different timeframes. I will add a large range of technical indicators as features to the dataset, and then explore whether they have predictive power in predicting reward as y.
 # 4. EDA:
  [EDA report](https://github.com/londonjevans/Capstone-Two/blob/master/Capstone%20Two%20EDA.ipynb)
- Inline-style: 
+ After creating many numeric features and converting them to binary, my primary concern when performing EDA was colinearity: 
 ![alt text](https://github.com/londonjevans/Capstone-Two/blob/master/Screenshot%202020-10-14%20at%2014.23.29.png)
 
